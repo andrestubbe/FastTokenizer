@@ -1,6 +1,6 @@
 # FastTokenizer — Lightweight Source Code Analysis [v0.1.0]
 
-**Deterministic source code tokenization for the FastJava ecosystem.**
+**Minimaler, deterministischer Tokenizer für Code- und Textstrukturen. Zero-Dependency, O(n), kleines stabiles TokenType-Set, sprachspezifische Scanner (Java/JSON/XML). Entwickelt für schnelle Preview- und Analyse-Pipelines.**
 
 [![Build](https://img.shields.io/github/actions/workflow/status/andrestubbe/FastTokenizer/maven.yml?branch=main)](https://github.com/andrestubbe/FastTokenizer/actions)
 [![Java](https://img.shields.io/badge/Java-17+-blue.svg)](https://www.java.com)

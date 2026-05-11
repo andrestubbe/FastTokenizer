@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
 
     <name>FastTokenizer</name>
-    <description>Lightweight, deterministic source code tokenization for the FastJava ecosystem.</description>
+    <description>Minimaler, deterministischer Tokenizer für Code- und Textstrukturen. Zero-Dependency, O(n), kleines stabiles TokenType-Set, sprachspezifische Scanner (Java/JSON/XML). Entwickelt für schnelle Preview- und Analyse-Pipelines.</description>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
