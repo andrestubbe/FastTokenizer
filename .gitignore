@@ -1,0 +1,9 @@
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Build artifacts
+/target/
+/build/
+/out/
